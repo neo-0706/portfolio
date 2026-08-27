@@ -11,6 +11,7 @@ Framer Motion.
 - Framer Motion
 - Lucide Icons
 
+
 ## Getting started
 
 ```bash
